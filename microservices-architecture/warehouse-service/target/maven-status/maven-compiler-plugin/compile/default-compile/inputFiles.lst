@@ -1,0 +1,12 @@
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/dto/StockUpdateDTO.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/service/MessagePublisher.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/service/ProductService.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/controller/ProductController.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/config/DataInitializer.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/dto/LowStockAlertMessage.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/dto/StockUpdateMessage.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/dto/ProductDTO.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/repository/ProductRepository.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/config/RabbitMQConfig.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/WarehouseServiceApplication.java
+/home/josekauan/microservices-architecture/warehouse-service/src/main/java/com/dio/challenge/warehouse/model/Product.java
